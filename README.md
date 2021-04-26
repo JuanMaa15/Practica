@@ -1,2 +1,2 @@
 # Practica
-Bienvenido, aquí te mostrare plantillas donde su objetivo es practicar  
+Bienvenido, aquí observarás plantillas el cual se desarrollaron con el objetivo de practicar.
